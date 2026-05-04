@@ -1,0 +1,8 @@
+base64
+streamlit
+pandas
+numpy
+plotly
+statsmodels
+scipy
+scikit-learn
